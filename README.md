@@ -6,7 +6,7 @@ reactstrap graphics and I want to mantain this kind of "basic" graphical user in
 
 >
 
-[![NPM](https://img.shields.io/npm/v/reactstrap-toastify.svg)](https://www.npmjs.com/package/reactstrap-toastify) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://image.flaticon.com/icons/svg/2001/2001313.svg)](https://www.npmjs.com/package/reactstrap-toastify) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
