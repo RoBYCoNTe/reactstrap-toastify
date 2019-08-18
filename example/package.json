@@ -1,0 +1,26 @@
+{
+  "name": "reactstrap-toastify-example",
+  "homepage": "https://RoBYCoNTe.github.io/reactstrap-toastify",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "prop-types": "^15.6.2",
+    "react": "file:../node_modules/react",
+    "react-dom": "file:../node_modules/react-dom",
+    "react-redux": "file:../node_modules/react-redux",
+    "react-scripts": "^1.1.4",
+    "reactstrap": "file:../node_modules/reactstrap",
+    "reactstrap-toastify": "file:..",
+    "redux": "file:../node_modules/redux",
+    "redux-logger": "file:../node_modules/redux-logger",
+    "redux-thunk": "file:../node_modules/redux-thunk"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

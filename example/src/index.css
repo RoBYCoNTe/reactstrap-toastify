@@ -1,0 +1,14 @@
+.toastify-notification-list {
+  z-index: 1050;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  min-width: 200px;
+  min-height: 100px;
+  overflow-y: auto;
+  max-height: 100vh;
+}
+
+.toastify-notification-list>.notification-item {
+  transition: all .5s ease-in
+}
